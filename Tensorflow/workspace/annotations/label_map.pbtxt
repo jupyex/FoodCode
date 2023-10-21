@@ -1,0 +1,44 @@
+item { 
+	name:'scrambled-egg'
+	id:1
+}
+item { 
+	name:'apple'
+	id:2
+}
+item { 
+	name:'beef-round-steak'
+	id:3
+}
+item { 
+	name:'broccoli'
+	id:4
+}
+item { 
+	name:'carrot'
+	id:5
+}
+item { 
+	name:'char-siu'
+	id:6
+}
+item { 
+	name:'chicken-wing'
+	id:7
+}
+item { 
+	name:'mushroom-white'
+	id:8
+}
+item { 
+	name:'rice-white-steamed'
+	id:9
+}
+item { 
+	name:'banana'
+	id:10
+}
+item { 
+	name:'one-dollar'
+	id:11
+}
